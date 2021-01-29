@@ -2,4 +2,4 @@
 
 ## To run
 
-python3 manage.py test api.test
+run `python3 manage.py test api.test`
